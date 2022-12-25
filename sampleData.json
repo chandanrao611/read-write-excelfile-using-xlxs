@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Chandrakesha",
+        "email": "crao@xyz.com",
+        "mobile": 9897876543,
+        "state": "Uttar Pradesh",
+        "country": "India"
+    },
+    {
+        "name": "Shubham",
+        "email": "shubh@xyz.com",
+        "mobile": 9809876543,
+        "state": "Uttar Pradesh",
+        "country": "India"
+    },
+    {
+        "name": "Nitish",
+        "email": "niti@xyz.com",
+        "mobile": 9834566543,
+        "state": "Uttar Pradesh",
+        "country": "India"
+    }
+]
